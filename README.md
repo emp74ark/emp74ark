@@ -1,16 +1,17 @@
-## Hi there 👋
+Enthusiastic and detail-oriented front-end web-developer. Stress resistant. Love good designs and enjoy coding a
+beautiful UI. Proficient in both individual and collaborative project settings, development using different project
+management systems. Know how to cooperate with different sorts of persons or teams.
 
-<!--
-**emp74ark/emp74ark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Competencies
+- HTML
+- CSS / SCSS
+- Git
+- JavaScript / Typescript
+- ReactJS
+- React Native
+- Redux / Redux Toolkit
+- Angular
+- Styled Components
+- NodeJs / Express
+- MongoDB / PostgresSQL
+- Jest/Vitest/Cypress
