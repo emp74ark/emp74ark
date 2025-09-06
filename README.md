@@ -7,11 +7,12 @@ management systems. Know how to cooperate with different sorts of persons or tea
 - CSS / SCSS
 - Git
 - JavaScript / Typescript
-- ReactJS
+- ReactJs
+- NextJs
 - React Native
 - Redux / Redux Toolkit
 - Angular
 - Styled Components
-- NodeJs / Express
+- NodeJs / Express / NestJs
 - MongoDB / PostgresSQL
 - Jest/Vitest/Cypress
